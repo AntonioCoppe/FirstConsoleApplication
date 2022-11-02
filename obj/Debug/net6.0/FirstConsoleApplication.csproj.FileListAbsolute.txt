@@ -1,0 +1,15 @@
+/Users/coppe/Desktop/FirstConsoleApplication/bin/Debug/net6.0/FirstConsoleApplication
+/Users/coppe/Desktop/FirstConsoleApplication/bin/Debug/net6.0/FirstConsoleApplication.deps.json
+/Users/coppe/Desktop/FirstConsoleApplication/bin/Debug/net6.0/FirstConsoleApplication.runtimeconfig.json
+/Users/coppe/Desktop/FirstConsoleApplication/bin/Debug/net6.0/FirstConsoleApplication.dll
+/Users/coppe/Desktop/FirstConsoleApplication/bin/Debug/net6.0/FirstConsoleApplication.pdb
+/Users/coppe/Desktop/FirstConsoleApplication/obj/Debug/net6.0/FirstConsoleApplication.csproj.AssemblyReference.cache
+/Users/coppe/Desktop/FirstConsoleApplication/obj/Debug/net6.0/FirstConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coppe/Desktop/FirstConsoleApplication/obj/Debug/net6.0/FirstConsoleApplication.AssemblyInfoInputs.cache
+/Users/coppe/Desktop/FirstConsoleApplication/obj/Debug/net6.0/FirstConsoleApplication.AssemblyInfo.cs
+/Users/coppe/Desktop/FirstConsoleApplication/obj/Debug/net6.0/FirstConsoleApplication.csproj.CoreCompileInputs.cache
+/Users/coppe/Desktop/FirstConsoleApplication/obj/Debug/net6.0/FirstConsoleApplication.dll
+/Users/coppe/Desktop/FirstConsoleApplication/obj/Debug/net6.0/refint/FirstConsoleApplication.dll
+/Users/coppe/Desktop/FirstConsoleApplication/obj/Debug/net6.0/FirstConsoleApplication.pdb
+/Users/coppe/Desktop/FirstConsoleApplication/obj/Debug/net6.0/FirstConsoleApplication.genruntimeconfig.cache
+/Users/coppe/Desktop/FirstConsoleApplication/obj/Debug/net6.0/ref/FirstConsoleApplication.dll
