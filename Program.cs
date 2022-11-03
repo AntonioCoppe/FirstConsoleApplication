@@ -10,6 +10,16 @@ class Program{
         // }
         // return 0;
         
+        // F# language test for checking reliability of C#
+        // var a = 30;
+        // var b = 12;
+        // var sum = fscalc.Calculator.Add(a,b);
+
+        // System.Console.WriteLine($"{a} + {b} = {sum}");
+
+        var pt = new Point {X = 30, Y = 12};
+        System.Console.WriteLine(pt.ToString());
+
         var numbers = new int[] {1,2,3,4,5};
         var type = numbers.GetType();
 
@@ -18,6 +28,6 @@ class Program{
             type = type.BaseType;
         }
         while(type!=null);
-    return 0;
-    }   
+     return 0;
+     }   
 }
