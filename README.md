@@ -1,3 +1,3 @@
 # FirstConsoleApplication
 
-This is my first test on building a .NET application with C#.
+C# 9: The Big Picture, a path to learnig the C# language.
